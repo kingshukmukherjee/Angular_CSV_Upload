@@ -1,25 +1,16 @@
 # RaboBankAssignment
 
 This angular app is capable of importing csv file from local machine and visualize it on the screen. Angular-material component is added for column filtering. 
-Development IDE: IntelliJ IDEA 2019.1.3 (Ultimate Edition)
-     _                      _                 ____ _     ___
-    / \   _ __   __ _ _   _| | __ _ _ __     / ___| |   |_ _|
-   / △ \ | '_ \ / _` | | | | |/ _` | '__|   | |   | |    | |
-  / ___ \| | | | (_| | |_| | | (_| | |      | |___| |___ | |
- /_/   \_\_| |_|\__, |\__,_|_|\__,_|_|       \____|_____|___|
-                |___/
-    
-
-Angular CLI: 8.3.4
-Node: 10.16.0
-OS: win32 x64
-Angular: 8.2.6
-... animations, common, compiler, compiler-cli, core, forms
-... language-service, platform-browser, platform-browser-dynamic
-... router
 
 Package                           Version
 -----------------------------------------------------------
+
+Development IDE: IntelliJ IDEA 2019.1.3 (Ultimate Edition)\n
+Angular CLI: 8.3.4\n
+Node: 10.16.0\n
+OS: win32 x64\n
+Angular: 8.2.6
+
 @angular-devkit/architect         0.803.4
 @angular-devkit/build-angular     0.803.4
 @angular-devkit/build-optimizer   0.803.4
