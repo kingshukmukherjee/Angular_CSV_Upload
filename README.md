@@ -2,30 +2,29 @@
 
 This angular app is capable of importing csv file from local machine and visualize it on the screen. Angular-material component is added for column filtering. 
 
-Package                           Version
------------------------------------------------------------
+# Version
 
-Development IDE: IntelliJ IDEA 2019.1.3 (Ultimate Edition)
-Angular CLI: 8.3.4
-Node: 10.16.0
-OS: win32 x64
-Angular: 8.2.6
+Development IDE: IntelliJ IDEA 2019.1.3 (Ultimate Edition)  
+Angular CLI: 8.3.4  
+Node: 10.16.0  
+OS: win32 x64  
+Angular: 8.2.6  
 
-@angular-devkit/architect         0.803.4
-@angular-devkit/build-angular     0.803.4
-@angular-devkit/build-optimizer   0.803.4
-@angular-devkit/build-webpack     0.803.4
-@angular-devkit/core              8.3.4
-@angular-devkit/schematics        8.3.4
-@angular/cdk                      8.2.0
-@angular/cli                      8.3.4
-@angular/material                 8.2.0
-@ngtools/webpack                  8.3.4
-@schematics/angular               8.3.4
-@schematics/update                0.803.4
-rxjs                              6.4.0
-typescript                        3.5.3
-webpack                           4.39.2
+@angular-devkit/architect         0.803.4  
+@angular-devkit/build-angular     0.803.4  
+@angular-devkit/build-optimizer   0.803.4  
+@angular-devkit/build-webpack     0.803.4  
+@angular-devkit/core              8.3.4  
+@angular-devkit/schematics        8.3.4  
+@angular/cdk                      8.2.0  
+@angular/cli                      8.3.4  
+@angular/material                 8.2.0  
+@ngtools/webpack                  8.3.4  
+@schematics/angular               8.3.4  
+@schematics/update                0.803.4  
+rxjs                              6.4.0  
+typescript                        3.5.3  
+webpack                           4.39.2  
 
 ## Development server
 
