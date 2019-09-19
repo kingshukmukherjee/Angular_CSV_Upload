@@ -2,6 +2,8 @@
 
 This angular app is capable of importing csv file from local machine and visualize it on the screen. Angular-material component is added for column filtering. 
 
+![](screenshot.png)
+
 # Version
 
 Development IDE: IntelliJ IDEA 2019.1.3 (Ultimate Edition)  
