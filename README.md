@@ -5,10 +5,10 @@ This angular app is capable of importing csv file from local machine and visuali
 Package                           Version
 -----------------------------------------------------------
 
-Development IDE: IntelliJ IDEA 2019.1.3 (Ultimate Edition)\n
-Angular CLI: 8.3.4\n
-Node: 10.16.0\n
-OS: win32 x64\n
+Development IDE: IntelliJ IDEA 2019.1.3 (Ultimate Edition)
+Angular CLI: 8.3.4
+Node: 10.16.0
+OS: win32 x64
 Angular: 8.2.6
 
 @angular-devkit/architect         0.803.4
