@@ -1,4 +1,4 @@
-# RaboBankAssignment
+# Assignment Deatils
 
 This angular app is capable of importing csv file from local machine and visualize it on the screen. Angular-material component is added for column filtering. 
 
