@@ -11,7 +11,7 @@ export class AppComponent {
 
   public records: any[] = [];
 
-  @ViewChild('csvReader', {read: 'any', static: false}) csvReader: any;
+  @ViewChild('csvReader', { read: 'any' }) csvReader: any;
 
   sortedData:  any[] = [];
 
